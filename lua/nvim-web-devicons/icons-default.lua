@@ -18,13 +18,13 @@ local icons_by_filename = {
     name = "Babelrc",
   },
   [".bash_profile"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#89e051",
     cterm_color = "113",
     name = "BashProfile",
   },
   [".bashrc"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#89e051",
     cterm_color = "113",
     name = "Bashrc",
@@ -36,7 +36,7 @@ local icons_by_filename = {
     name = "Dockerfile",
   },
   [".ds_store"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#41535b",
     cterm_color = "239",
     name = "DsStore",
@@ -72,7 +72,7 @@ local icons_by_filename = {
     name = "GitAttributes",
   },
   [".gitconfig"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#f54d27",
     cterm_color = "196",
     name = "GitConfig",
@@ -114,7 +114,7 @@ local icons_by_filename = {
     name = "Justfile",
   },
   [".luaurc"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#00a2ff",
     cterm_color = "75",
     name = "Luaurc",
@@ -192,19 +192,19 @@ local icons_by_filename = {
     name = "Xsession",
   },
   [".zprofile"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#89e051",
     cterm_color = "113",
     name = "Zshprofile",
   },
   [".zshenv"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#89e051",
     cterm_color = "113",
     name = "Zshenv",
   },
   [".zshrc"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#89e051",
     cterm_color = "113",
     name = "Zshrc",
@@ -228,7 +228,7 @@ local icons_by_filename = {
     name = "R",
   },
   ["avif"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#a074c4",
     cterm_color = "140",
     name = "Avif",
@@ -258,7 +258,7 @@ local icons_by_filename = {
     name = "Checkhealth",
   },
   ["cmakelists.txt"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#6d8086",
     cterm_color = "66",
     name = "CMakeLists",
@@ -282,7 +282,7 @@ local icons_by_filename = {
     name = "Dockerfile",
   },
   ["config"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#6d8086",
     cterm_color = "66",
     name = "Config",
@@ -294,13 +294,13 @@ local icons_by_filename = {
     name = "Dockerfile",
   },
   ["copying"] = {
-    icon = "",
+    icon = "󰗑",
     color = "#cbcb41",
     cterm_color = "185",
     name = "License",
   },
   ["copying.lesser"] = {
-    icon = "",
+    icon = "󰗑",
     color = "#cbcb41",
     cterm_color = "185",
     name = "License",
@@ -360,7 +360,7 @@ local icons_by_filename = {
     name = "Gemfile",
   },
   ["gnumakefile"] = {
-    icon = "",
+    icon = "󱁼",
     color = "#6d8086",
     cterm_color = "66",
     name = "Makefile",
@@ -510,7 +510,7 @@ local icons_by_filename = {
     name = "Kritarc",
   },
   ["license"] = {
-    icon = "",
+    icon = "󰗑",
     color = "#d0bf41",
     cterm_color = "185",
     name = "License",
@@ -528,7 +528,7 @@ local icons_by_filename = {
     name = "LXQtConfigFile",
   },
   ["makefile"] = {
-    icon = "",
+    icon = "󱁼",
     color = "#6d8086",
     cterm_color = "66",
     name = "Makefile",
@@ -684,7 +684,7 @@ local icons_by_filename = {
     name = "TSConfig",
   },
   ["unlicense"] = {
-    icon = "",
+    icon = "󰗑",
     color = "#d0bf41",
     cterm_color = "185",
     name = "License",
@@ -759,7 +759,7 @@ local icons_by_filename = {
 
 local icons_by_file_extension = {
   ["3gp"] = {
-    icon = "",
+    icon = "󰎁",
     color = "#FD971F",
     cterm_color = "208",
     name = "3gp",
@@ -771,7 +771,7 @@ local icons_by_file_extension = {
     name = "3DObjectFile",
   },
   ["7z"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "7z",
@@ -783,25 +783,25 @@ local icons_by_file_extension = {
     name = "StaticLibraryArchive",
   },
   ["aac"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#00afff",
     cterm_color = "39",
     name = "AdvancedAudioCoding",
   },
   ["aif"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#00afff",
     cterm_color = "39",
     name = "AudioInterchangeFileFormat",
   },
   ["aiff"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#00afff",
     cterm_color = "39",
     name = "AudioInterchangeFileFormat",
   },
   ["ape"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#00afff",
     cterm_color = "39",
     name = "MonkeysAudio",
@@ -855,7 +855,7 @@ local icons_by_file_extension = {
     name = "Astro",
   },
   ["awk"] = {
-    icon = "",
+    icon = "󱜧",
     color = "#4d5a5e",
     cterm_color = "240",
     name = "Awk",
@@ -873,13 +873,13 @@ local icons_by_file_extension = {
     name = "Backup",
   },
   ["bash"] = {
-    icon = "",
+    icon = "󱜧",
     color = "#89e051",
     cterm_color = "113",
     name = "Bash",
   },
   ["bat"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#C1F12E",
     cterm_color = "191",
     name = "Bat",
@@ -927,7 +927,7 @@ local icons_by_file_extension = {
     name = "Blender",
   },
   ["bmp"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#a074c4",
     cterm_color = "140",
     name = "Bmp",
@@ -945,19 +945,19 @@ local icons_by_file_extension = {
     name = "BoundaryRepresentation",
   },
   ["bz"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Bz",
   },
   ["bz2"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Bz2",
   },
   ["bz3"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Bz3",
@@ -987,7 +987,7 @@ local icons_by_file_extension = {
     name = "Cache",
   },
   ["cast"] = {
-    icon = "",
+    icon = "󰎁",
     color = "#FD971F",
     cterm_color = "208",
     name = "Asciinema",
@@ -1011,7 +1011,7 @@ local icons_by_file_extension = {
     name = "CPlusPlusModule",
   },
   ["cfg"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#6d8086",
     cterm_color = "66",
     name = "Configuration",
@@ -1047,7 +1047,7 @@ local icons_by_file_extension = {
     name = "ClojureDart",
   },
   ["cmake"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#6d8086",
     cterm_color = "66",
     name = "CMake",
@@ -1071,7 +1071,7 @@ local icons_by_file_extension = {
     name = "Coffee",
   },
   ["conf"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#6d8086",
     cterm_color = "66",
     name = "Conf",
@@ -1125,7 +1125,7 @@ local icons_by_file_extension = {
     name = "Cs",
   },
   ["csh"] = {
-    icon = "",
+    icon = "󱜧",
     color = "#4d5a5e",
     cterm_color = "240",
     name = "Csh",
@@ -1137,7 +1137,7 @@ local icons_by_file_extension = {
     name = "RazorPage",
   },
   ["cson"] = {
-    icon = "",
+    icon = "󰅩",
     color = "#cbcb41",
     cterm_color = "185",
     name = "Cson",
@@ -1215,7 +1215,7 @@ local icons_by_file_extension = {
     name = "Dart",
   },
   ["db"] = {
-    icon = "",
+    icon = "󰆼",
     color = "#dad8d8",
     cterm_color = "188",
     name = "Db",
@@ -1287,7 +1287,7 @@ local icons_by_file_extension = {
     name = "Dropbox",
   },
   ["dump"] = {
-    icon = "",
+    icon = "󰆼",
     color = "#dad8d8",
     cterm_color = "188",
     name = "Dump",
@@ -1305,7 +1305,7 @@ local icons_by_file_extension = {
     name = "AutoCADDxf",
   },
   ["ebook"] = {
-    icon = "",
+    icon = "󱓷",
     color = "#eab16d",
     cterm_color = "215",
     name = "Ebook",
@@ -1377,7 +1377,7 @@ local icons_by_file_extension = {
     name = "Epp",
   },
   ["epub"] = {
-    icon = "",
+    icon = "󱓷",
     color = "#eab16d",
     cterm_color = "215",
     name = "Epub",
@@ -1497,7 +1497,7 @@ local icons_by_file_extension = {
     name = "Fdmdownload",
   },
   ["flac"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#0075aa",
     cterm_color = "24",
     name = "FreeLosslessAudioCodec",
@@ -1521,7 +1521,7 @@ local icons_by_file_extension = {
     name = "Fennel",
   },
   ["fish"] = {
-    icon = "",
+    icon = "󱜧",
     color = "#4d5a5e",
     cterm_color = "240",
     name = "Fish",
@@ -1569,7 +1569,7 @@ local icons_by_file_extension = {
     name = "Gemspec",
   },
   ["gif"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#a074c4",
     cterm_color = "140",
     name = "Gif",
@@ -1587,7 +1587,7 @@ local icons_by_file_extension = {
     name = "BinaryGLTF",
   },
   ["gnumakefile"] = {
-    icon = "",
+    icon = "󱁼",
     color = "#6d8086",
     cterm_color = "66",
     name = "Makefile",
@@ -1629,7 +1629,7 @@ local icons_by_file_extension = {
     name = "Gv",
   },
   ["gz"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Gz",
@@ -1731,7 +1731,7 @@ local icons_by_file_extension = {
     name = "Ixx",
   },
   ["ico"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#cbcb41",
     cterm_color = "185",
     name = "Ico",
@@ -1785,13 +1785,13 @@ local icons_by_file_extension = {
     name = "Igs",
   },
   ["image"] = {
-    icon = "",
+    icon = "󰗮",
     color = "#d0bec8",
     cterm_color = "181",
     name = "Image",
   },
   ["img"] = {
-    icon = "",
+    icon = "󰗮",
     color = "#d0bec8",
     cterm_color = "181",
     name = "Img",
@@ -1809,7 +1809,7 @@ local icons_by_file_extension = {
     name = "Info",
   },
   ["ini"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#6d8086",
     cterm_color = "66",
     name = "Ini",
@@ -1821,7 +1821,7 @@ local icons_by_file_extension = {
     name = "Arduino",
   },
   ["iso"] = {
-    icon = "",
+    icon = "󰗮",
     color = "#d0bec8",
     cterm_color = "181",
     name = "Iso",
@@ -1851,13 +1851,13 @@ local icons_by_file_extension = {
     name = "JWM",
   },
   ["jpeg"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#a074c4",
     cterm_color = "140",
     name = "Jpeg",
   },
   ["jpg"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#a074c4",
     cterm_color = "140",
     name = "Jpg",
@@ -1869,19 +1869,19 @@ local icons_by_file_extension = {
     name = "Js",
   },
   ["json"] = {
-    icon = "",
+    icon = "󰅩",
     color = "#cbcb41",
     cterm_color = "185",
     name = "Json",
   },
   ["json5"] = {
-    icon = "",
+    icon = "󰅩",
     color = "#cbcb41",
     cterm_color = "185",
     name = "Json5",
   },
   ["jsonc"] = {
-    icon = "",
+    icon = "󰅩",
     color = "#cbcb41",
     cterm_color = "185",
     name = "Jsonc",
@@ -1893,7 +1893,7 @@ local icons_by_file_extension = {
     name = "Jsx",
   },
   ["jxl"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#a074c4",
     cterm_color = "140",
     name = "JpegXl",
@@ -2001,7 +2001,7 @@ local icons_by_file_extension = {
     name = "Krita",
   },
   ["ksh"] = {
-    icon = "",
+    icon = "󱜧",
     color = "#4d5a5e",
     cterm_color = "240",
     name = "Ksh",
@@ -2019,7 +2019,7 @@ local icons_by_file_extension = {
     name = "KotlinScript",
   },
   ["lck"] = {
-    icon = "",
+    icon = "󰌾",
     color = "#bbbbbb",
     cterm_color = "250",
     name = "Lock",
@@ -2055,7 +2055,7 @@ local icons_by_file_extension = {
     name = "Lib",
   },
   ["license"] = {
-    icon = "",
+    icon = "󰗑",
     color = "#cbcb41",
     cterm_color = "185",
     name = "License",
@@ -2067,13 +2067,13 @@ local icons_by_file_extension = {
     name = "Liquid",
   },
   ["lock"] = {
-    icon = "",
+    icon = "󰌾",
     color = "#bbbbbb",
     cterm_color = "250",
     name = "Lock",
   },
   ["log"] = {
-    icon = "󰌱",
+    icon = "󰯃",
     color = "#dddddd",
     cterm_color = "253",
     name = "Log",
@@ -2115,31 +2115,31 @@ local icons_by_file_extension = {
     name = "M3u8",
   },
   ["m4a"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#00afff",
     cterm_color = "39",
     name = "MPEG4",
   },
   ["m4v"] = {
-    icon = "",
+    icon = "󰎁",
     color = "#FD971F",
     cterm_color = "208",
     name = "M4V",
   },
   ["magnet"] = {
-    icon = "",
+    icon = "󰍇",
     color = "#a51b16",
     cterm_color = "124",
     name = "Magnet",
   },
   ["makefile"] = {
-    icon = "",
+    icon = "󱁼",
     color = "#6d8086",
     cterm_color = "66",
     name = "Makefile",
   },
   ["markdown"] = {
-    icon = "",
+    icon = "",
     color = "#dddddd",
     cterm_color = "253",
     name = "Markdown",
@@ -2181,13 +2181,13 @@ local icons_by_file_extension = {
     name = "Mjs",
   },
   ["mk"] = {
-    icon = "",
+    icon = "󱁼",
     color = "#6d8086",
     cterm_color = "66",
     name = "Makefile",
   },
   ["mkv"] = {
-    icon = "",
+    icon = "󰎁",
     color = "#FD971F",
     cterm_color = "208",
     name = "Mkv",
@@ -2223,7 +2223,7 @@ local icons_by_file_extension = {
     name = "Motoko",
   },
   ["mobi"] = {
-    icon = "",
+    icon = "󱓷",
     color = "#eab16d",
     cterm_color = "215",
     name = "Mobi",
@@ -2241,19 +2241,19 @@ local icons_by_file_extension = {
     name = "Mojo",
   },
   ["mov"] = {
-    icon = "",
+    icon = "󰎁",
     color = "#FD971F",
     cterm_color = "208",
     name = "MOV",
   },
   ["mp3"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#00afff",
     cterm_color = "39",
     name = "MPEGAudioLayerIII",
   },
   ["mp4"] = {
-    icon = "",
+    icon = "󰎁",
     color = "#FD971F",
     cterm_color = "208",
     name = "Mp4",
@@ -2301,7 +2301,7 @@ local icons_by_file_extension = {
     name = "Nix",
   },
   ["nswag"] = {
-    icon = "",
+    icon = "󰅩",
     color = "#85ea2d",
     cterm_color = "112",
     name = "Nswag",
@@ -2325,13 +2325,13 @@ local icons_by_file_extension = {
     name = "3DObjectFile",
   },
   ["ogg"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#0075aa",
     cterm_color = "24",
     name = "OggVorbis",
   },
   ["opus"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#0075aa",
     cterm_color = "24",
     name = "OpusAudioFile",
@@ -2373,13 +2373,13 @@ local icons_by_file_extension = {
     name = "PackedResource",
   },
   ["pcm"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#0075aa",
     cterm_color = "24",
     name = "PulseCodeModulation",
   },
   ["pdf"] = {
-    icon = "",
+    icon = "󰈦",
     color = "#b30b00",
     cterm_color = "124",
     name = "Pdf",
@@ -2415,7 +2415,7 @@ local icons_by_file_extension = {
     name = "Pm",
   },
   ["png"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#a074c4",
     cterm_color = "140",
     name = "Png",
@@ -2583,7 +2583,7 @@ local icons_by_file_extension = {
     name = "Rake",
   },
   ["rar"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Rar",
@@ -2685,7 +2685,7 @@ local icons_by_file_extension = {
     name = "Scss",
   },
   ["sh"] = {
-    icon = "",
+    icon = "󱜧",
     color = "#4d5a5e",
     cterm_color = "240",
     name = "Sh",
@@ -2811,19 +2811,19 @@ local icons_by_file_extension = {
     name = "TypeScriptReactSpec",
   },
   ["sql"] = {
-    icon = "",
+    icon = "󰆼",
     color = "#dad8d8",
     cterm_color = "188",
     name = "Sql",
   },
   ["sqlite"] = {
-    icon = "",
+    icon = "󰆼",
     color = "#dad8d8",
     cterm_color = "188",
     name = "Sql",
   },
   ["sqlite3"] = {
-    icon = "",
+    icon = "󰆼",
     color = "#dad8d8",
     cterm_color = "188",
     name = "Sql",
@@ -2997,7 +2997,7 @@ local icons_by_file_extension = {
     name = "TFVars",
   },
   ["tgz"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Tgz",
@@ -3063,7 +3063,7 @@ local icons_by_file_extension = {
     name = "Twig",
   },
   ["txz"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Txz",
@@ -3147,25 +3147,25 @@ local icons_by_file_extension = {
     name = "Wasm",
   },
   ["wav"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#00afff",
     cterm_color = "39",
     name = "WaveformAudioFile",
   },
   ["webm"] = {
-    icon = "",
+    icon = "󰎁",
     color = "#FD971F",
     cterm_color = "208",
     name = "Webm",
   },
   ["webmanifest"] = {
-    icon = "",
+    icon = "󰅩",
     color = "#f1e05a",
     cterm_color = "185",
     name = "Webmanifest",
   },
   ["webp"] = {
-    icon = "",
+    icon = "󰋩",
     color = "#a074c4",
     cterm_color = "140",
     name = "Webp",
@@ -3177,7 +3177,7 @@ local icons_by_file_extension = {
     name = "Webpack",
   },
   ["wma"] = {
-    icon = "",
+    icon = "󰝚",
     color = "#00afff",
     cterm_color = "39",
     name = "WindowsMediaAudio",
@@ -3273,19 +3273,19 @@ local icons_by_file_extension = {
     name = "Xul",
   },
   ["xz"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Xz",
   },
   ["yaml"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#6d8086",
     cterm_color = "66",
     name = "Yaml",
   },
   ["yml"] = {
-    icon = "",
+    icon = "󰒓",
     color = "#6d8086",
     cterm_color = "66",
     name = "Yml",
@@ -3297,19 +3297,19 @@ local icons_by_file_extension = {
     name = "Zig",
   },
   ["zip"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Zip",
   },
   ["zsh"] = {
-    icon = "",
+    icon = "󱜧",
     color = "#89e051",
     cterm_color = "113",
     name = "Zsh",
   },
   ["zst"] = {
-    icon = "",
+    icon = "󰗄",
     color = "#eca517",
     cterm_color = "214",
     name = "Zst",
