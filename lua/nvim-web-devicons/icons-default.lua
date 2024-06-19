@@ -981,7 +981,7 @@ local icons_by_file_extension = {
     name = "CPlusPlus",
   },
   ["cache"] = {
-    icon = "",
+    icon = "󰉁",
     color = "#ffffff",
     cterm_color = "231",
     name = "Cache",
@@ -1227,7 +1227,7 @@ local icons_by_file_extension = {
     name = "Dconf",
   },
   ["desktop"] = {
-    icon = "",
+    icon = "󰍹",
     color = "#563d7c",
     cterm_color = "54",
     name = "DesktopEntry",
@@ -1365,7 +1365,7 @@ local icons_by_file_extension = {
     name = "Env",
   },
   ["eot"] = {
-    icon = "",
+    icon = "󰬴",
     color = "#ECECEC",
     cterm_color = "255",
     name = "EmbeddedOpenTypeFont",
@@ -1503,13 +1503,13 @@ local icons_by_file_extension = {
     name = "FreeLosslessAudioCodec",
   },
   ["flc"] = {
-    icon = "",
+    icon = "󰬴",
     color = "#ECECEC",
     cterm_color = "255",
     name = "FIGletFontControl",
   },
   ["flf"] = {
-    icon = "",
+    icon = "󰬴",
     color = "#ECECEC",
     cterm_color = "255",
     name = "FIGletFontFormat",
@@ -1659,7 +1659,7 @@ local icons_by_file_extension = {
     name = "Hbs",
   },
   ["hex"] = {
-    icon = "",
+    icon = "",
     color = "#2e63ff",
     cterm_color = "27",
     name = "Hexadecimal",
@@ -1737,25 +1737,25 @@ local icons_by_file_extension = {
     name = "Ico",
   },
   ["ical"] = {
-    icon = "",
+    icon = "󰸗",
     color = "#2B2e83",
     cterm_color = "18",
     name = "Ical",
   },
   ["icalendar"] = {
-    icon = "",
+    icon = "󰸗",
     color = "#2B2e83",
     cterm_color = "18",
     name = "Icalendar",
   },
   ["ics"] = {
-    icon = "",
+    icon = "󰸗",
     color = "#2B2e83",
     cterm_color = "18",
     name = "Ics",
   },
   ["ifb"] = {
-    icon = "",
+    icon = "󰸗",
     color = "#2B2e83",
     cterm_color = "18",
     name = "Ifb",
@@ -2037,7 +2037,7 @@ local icons_by_file_extension = {
     name = "Less",
   },
   ["lff"] = {
-    icon = "",
+    icon = "󰬴",
     color = "#ECECEC",
     cterm_color = "255",
     name = "LibrecadFontFile",
@@ -2343,7 +2343,7 @@ local icons_by_file_extension = {
     name = "OrgMode",
   },
   ["otf"] = {
-    icon = "",
+    icon = "󰬴",
     color = "#ECECEC",
     cterm_color = "255",
     name = "OpenTypeFont",
@@ -2487,7 +2487,7 @@ local icons_by_file_extension = {
     name = "Psd",
   },
   ["pub"] = {
-    icon = "󰷖",
+    icon = "󰌋",
     color = "#e3c58e",
     cterm_color = "222",
     name = "Pub",
@@ -2913,7 +2913,7 @@ local icons_by_file_extension = {
     name = "SystemVerilog",
   },
   ["svg"] = {
-    icon = "󰜡",
+    icon = "󰋩",
     color = "#FFB13B",
     cterm_color = "214",
     name = "Svg",
@@ -3051,7 +3051,7 @@ local icons_by_file_extension = {
     name = "Tsx",
   },
   ["ttf"] = {
-    icon = "",
+    icon = "󰬴",
     color = "#ECECEC",
     cterm_color = "255",
     name = "TrueTypeFont",
@@ -3183,13 +3183,13 @@ local icons_by_file_extension = {
     name = "WindowsMediaAudio",
   },
   ["woff"] = {
-    icon = "",
+    icon = "󰬴",
     color = "#ECECEC",
     cterm_color = "255",
     name = "WebOpenFontFormat",
   },
   ["woff2"] = {
-    icon = "",
+    icon = "󰬴",
     color = "#ECECEC",
     cterm_color = "255",
     name = "WebOpenFontFormat",
