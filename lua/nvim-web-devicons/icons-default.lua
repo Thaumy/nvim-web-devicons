@@ -867,7 +867,7 @@ local icons_by_file_extension = {
     name = "AzureCli",
   },
   ["bak"] = {
-    icon = "󰁯",
+    icon = "󰙰",
     color = "#6d8086",
     cterm_color = "66",
     name = "Backup",
