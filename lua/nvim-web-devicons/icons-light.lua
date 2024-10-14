@@ -311,6 +311,12 @@ local icons_by_filename = {
     cterm_color = "94",
     name = "ZigObjectNotation",
   },
+  ["crt"] = {
+    icon = "󱆈",
+    color = "#666620",
+    cterm_color = "58",
+    name = "Certificate",
+  },
   ["checkhealth"] = {
     icon = "󰓙",
     color = "#3a5a7e",
