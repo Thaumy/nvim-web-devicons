@@ -1322,6 +1322,12 @@ local icons_by_file_extension = {
     cterm_color = "185",
     name = "Coffee",
   },
+  ["cnf"] = {
+    icon = "󰒓",
+    color = "#6d8086",
+    cterm_color = "66",
+    name = "Conf",
+  },
   ["conf"] = {
     icon = "󰒓",
     color = "#6d8086",
