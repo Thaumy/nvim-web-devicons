@@ -3779,6 +3779,12 @@ local icons_by_operating_system = {
     cterm_color = "160",
     name = "Illumos",
   },
+  ["key"] = {
+    icon = "󰌋",
+    color = "#666620",
+    cterm_color = "58",
+    name = "PrivateKey",
+  },
   ["kali"] = {
     icon = "",
     color = "#1d59bf",
