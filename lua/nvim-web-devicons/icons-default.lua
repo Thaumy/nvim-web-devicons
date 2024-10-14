@@ -4043,6 +4043,12 @@ local icons_by_operating_system = {
     cterm_color = "196",
     name = "Illumos",
   },
+  ["key"] = {
+    icon = "󰌋",
+    color = "#d0bf41",
+    cterm_color = "185",
+    name = "PrivateKey",
+  },
   ["kali"] = {
     icon = "",
     color = "#2777ff",
