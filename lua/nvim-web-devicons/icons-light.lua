@@ -1454,6 +1454,12 @@ local icons_by_file_extension = {
     cterm_color = "28",
     name = "Conda",
   },
+  ["cnf"] = {
+    icon = "󰒓",
+    color = "#526064",
+    cterm_color = "59",
+    name = "Conf",
+  },
   ["conf"] = {
     icon = "󰒓",
     color = "#526064",
