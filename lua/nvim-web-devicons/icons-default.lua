@@ -377,6 +377,12 @@ local icons_by_filename = {
     cterm_color = "253",
     name = "BunLockfile",
   },
+  ["crt"] = {
+    icon = "󱆈",
+    color = "#d0bf41",
+    cterm_color = "185",
+    name = "Certificate",
+  },
   ["checkhealth"] = {
     icon = "󰓙",
     color = "#75B4FB",
