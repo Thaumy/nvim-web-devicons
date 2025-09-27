@@ -38,7 +38,7 @@ Add the icon to table in files **3.**, **4.** and **5.** if the icon is from an 
 Each icon must have the following structure (this is an example):
 
 ```lua
-[".gitconfig"] = { icon = "", color = "#41535b", cterm_color = "0", name = "GitConfig" },
+[".gitconfig"] = { icon = "󰒓", color = "#41535b", cterm_color = "0", name = "GitConfig" },
 ```
 
 > [!IMPORTANT]
